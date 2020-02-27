@@ -1,6 +1,6 @@
 [
   {
-    "log_file": "C:\\Users\\HunterAlex\\IdeaProjects\\Strack Driver\\src\\com\\company\\application-1-logs.txt",
+    "log_file": "src/com/company/application-1-logs.txt",
     "application_name": "application - 1",
     "users": [
       {
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "log_file": "C:\\Users\\HunterAlex\\IdeaProjects\\Strack Driver\\src\\com\\company\\application-2-logs.txt",
+    "log_file": "src/com/company/application-2-logs.txt",
     "application_name": "application - 2",
     "users": [
       {

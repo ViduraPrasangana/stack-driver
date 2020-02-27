@@ -17,7 +17,7 @@ public class Main {
 
     public static void main(String[] args) {
         Config config = new ConfigByJSON();
-        List<Application> applications = config.readConfigs("C:\\Users\\HunterAlex\\IdeaProjects\\Strack Driver\\src\\com\\company\\config.json");
+        List<Application> applications = config.readConfigs("src/com/company/config.json");
 
         LogFactory logFactory = new LogFactory();
         NotificationFactory notificationFactory = new NotificationFactory();
