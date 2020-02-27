@@ -1,0 +1,32 @@
+[
+  {
+    "log_file": "C:\\Users\\HunterAlex\\IdeaProjects\\Strack Driver\\src\\com\\company\\application-1-logs.txt",
+    "application_name": "application - 1",
+    "users": [
+      {
+        "name": "nimal",
+        "email": "nimal@example.com",
+        "phone": "0000000",
+        "notificationTypes": "email,sms"
+      },
+      {
+        "name": "kamal",
+        "email": "kamal@example.com",
+        "phone": "0000000",
+        "notificationTypes": "email"
+      }
+    ]
+  },
+  {
+    "log_file": "C:\\Users\\HunterAlex\\IdeaProjects\\Strack Driver\\src\\com\\company\\application-2-logs.txt",
+    "application_name": "application - 2",
+    "users": [
+      {
+        "email": "saman@example.com",
+        "name": "saman",
+        "phone": "0000000",
+        "notificationTypes": "email,sms"
+      }
+    ]
+  }
+]

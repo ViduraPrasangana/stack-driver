@@ -1,0 +1,2 @@
+INFO 2020-02-12 message_info2
+ERROR 2020-02-13 message_error2
